@@ -1,0 +1,23 @@
+{
+  "name": "pag-pintores",
+  "version": "1.0.0",
+  "description": "Mostrar Pintores con biografias y 5 pinturas del mismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosAlexis/PagWebPintores-CarlosGonzalez.git"
+  },
+  "author": "Carlos Alexis Gonzalez Estrada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosAlexis/PagWebPintores-CarlosGonzalez/issues"
+  },
+  "homepage": "https://github.com/CarlosAlexis/PagWebPintores-CarlosGonzalez#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
